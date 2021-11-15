@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftKit",
+        "repositoryURL": "https://github.com/danielsaidi/SwiftKit.git",
+        "state": {
+          "branch": null,
+          "revision": "3cd5182ee809194d0cc17b649daa2e6dca94871b",
+          "version": "0.7.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
